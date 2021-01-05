@@ -1,10 +1,4 @@
-//
-//  Package.swift
-//  snapkit-multi
-//
-//  Created by Nebojsa Nadj on 5.1.21..
-//
-
+// swift-tools-version:5.3
 import PackageDescription
 
 let package = Package(
